@@ -22,4 +22,12 @@ This project demonstrates how to use **HTML lists and forms** effectively.
 - Implementing form validation with JavaScript  
 - Adding responsive design  
 
-Follow my journey on [X](Professor9015)) 🔥
+Follow my journey on X @Professor9015 🔥
+
+**🚀 Learning Full Stack Development in Public**
+
+💡 Today’s Update: Built a form & list webpage using HTML & CSS.
+🔹 Practiced form elements, input fields & structured lists
+🔹 Next: JavaScript for better interactivity!
+
+📌 Follow my journey on X @Professor9015 🔥
