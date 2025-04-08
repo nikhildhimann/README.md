@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm a Full Stack Developer learning in public 🚀
 💡 Currently mastering MERN Stack (MongoDB, Express, React, Node.js)  
 🔨 Building real-world projects  
-📌 Follow my journey on [X (Professor9015)](https://x.com/)
+📌 Follow my journey on [X (@nikhildhiman_0)](https://x.com/)
 
 
 # HTML Forms & Lists Project 🚀
@@ -22,7 +22,7 @@ This project demonstrates how to use **HTML lists and forms** effectively.
 - Implementing form validation with JavaScript  
 - Adding responsive design  
 
-Follow my journey on X @Professor9015 🔥
+Follow my journey on X @nikhildhiman_0 🔥
 
 **🚀 Learning Full Stack Development in Public**
 
@@ -30,4 +30,4 @@ Follow my journey on X @Professor9015 🔥
 🔹 Practiced form elements, input fields & structured lists
 🔹 Next: JavaScript for better interactivity!
 
-📌 Follow my journey on X @Professor9015 🔥
+📌 Follow my journey on X @nikhildhiman_0 🔥
